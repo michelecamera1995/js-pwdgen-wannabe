@@ -4,7 +4,7 @@ const nome = prompt('Inserisci nome');
 const cognome = prompt('Inserisci cognome');
 const colore = prompt('Inserisci colore preferito');
 
-const nomecompleto = nome + cognome + colore + 21
+const nomecompleto = nome + cognome + colore + 21;
 
 console.log(nomecompleto)
 
